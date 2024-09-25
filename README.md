@@ -1,4 +1,3 @@
-# README  
 # Hardware-Sensor-IOS-Application
 **Created by Eugen Feng 50173001**  
 **For EE426 Wearable Sensors**
