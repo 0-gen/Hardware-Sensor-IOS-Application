@@ -34,24 +34,24 @@ If you are **not running this code** and just reading it, feel free to skip the 
 ---
 
 ### Reading the Code:
-To read the main code, navigate to the folder:  
-`50173001_Feng/Sensored/ViewController`
+To read the main code, navigate to:  
+`ViewController.swift`
 
 ### File Descriptions:
 
-- `.../Sensored/Base.Iproj`:  
+- `Base.Iproj`:  
   Contains the default main screen that pops up when the app is opened and the launch screen. The main screen includes a reference screen, and I'll provide a screenshot if you're not running the code on your phone.
 
-- `.../Sensored/SensorView`:  
+- `SensorView`:  
   Correlated to the main code. This file adds labels, buttons, and image viewers to display certain data.
 
-- `.../Sensored/Assets.x.cassets`:  
+- `Assets.x.cassets`:  
   Contains all the pictures used in the app.
 
-- `.../Sensored/RootPageViewController`:  
+- `RootPageViewController`:  
   Allows swiping between the main page and the reference page.
 
-- `.../Sensored/Sensor.xib`:  
+- `Sensor.xib`:  
   The selection screen for choosing which sensor data to display. A screenshot will be provided for this page as well.
 
 Other files are system files generated when the app was first created.
